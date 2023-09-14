@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Laura A. Chicos
 email: '12laura@gmail.com'
-description: Welcome to my personal website.
+description: Laura Chicos is an Engineer and Researcher. She has Bachelor's degrees in Electrical Engineering and Robotics from Johns Hopkins University, and a Master's degree from the Biomechatronics Lab at the Massachusetts Insitute of Technology.
+
 baseurl: '/'
 url: 'https://lauramediamit.github.io/laurachicos.github.io/'# the base hostname & protocol for your site, e.g. https://example.com
 theme_skin: ceramic
